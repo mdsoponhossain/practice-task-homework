@@ -1,0 +1,157 @@
+/* header designing */
+* {
+    font-family: Work Sans;
+}
+
+header {
+    background-image: url('images/banner/banner3.png');
+    width: 100%px;
+    margin-right: 0;
+    background-position: center;
+    background-size: cover;
+
+
+    text-align: right;
+    padding: 216px 200px 364px 845px;
+    background-repeat: no-repeat;
+
+
+}
+
+h1 {
+    color: #FFF;
+    text-align: right;
+    font-size: 65px;
+    font-weight: 700;
+
+}
+
+p {
+    color: #FFF;
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+button {
+    width: 160px;
+    height: 64px;
+    color: #005FAC;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+/* main section design */
+/* section design */
+
+#section1 {
+    display: flex;
+    width: 1600px;
+    height: 722px;
+    padding: 320px;
+    margin-right: 20px;
+    justify-content: space-between;
+
+}
+
+h2 {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+#Contrary {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    padding-right: 200px;
+    text-align: center;
+
+}
+
+#five {
+    color: var(--dark-02, #444343);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+< !-- section-2 -->.section-2 {}
+
+#drdr {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 230px;
+}
+
+#md {
+    text-align: center;
+}
+
+.my {
+    padding: 20px;
+}
+
+#web {
+    color: #151414;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+
+#i-want {
+    color: #737272;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+
+}
+
+/* #go{
+  padding-left: 150px;;
+} */
+< !-- sectopn-3 -->< !-- sectopn-3 -->< !-- sectopn-3 -->#what {
+    width: 1140px;
+    height: 300px;
+    border: 10px solid black;
+}
+
+/* footerfooterfooterfooterfooterfooterfooterfooter */
+footer {
+    width: 100%;
+    height: 577px;
+    background-color: #151414;
+    background-position-x: right;
+    background-size: cover;
+    padding-right: 0;
+    display: flex;
+    margin-top: 200px;
+    justify-content: space-between;
+    text-align:justify;
+
+}
+
+#futer {
+    text-align: left;
+}
+
+.right {
+    padding: 20px;
+    width:50%;
+}
+
+#s {
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+
+}
+#ss{
+    border-radius: 8px;
+    background: #fafcfe; 
+}
